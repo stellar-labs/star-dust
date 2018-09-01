@@ -1,0 +1,23 @@
+{
+	"name": "star-dust",
+	"version": "0.1.0",
+	"description": "Delivering a light version of your favorite framework.",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "console.log('hello world');",
+		"eslint:init": "eslint --init"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/stellar-labs/star-dust.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/stellar-labs/star-dust/issues"
+	},
+	"homepage": "https://github.com/stellar-labs/star-dust#readme",
+	"devDependencies": {
+		"eslint": "^5.5.0"
+	}
+}
