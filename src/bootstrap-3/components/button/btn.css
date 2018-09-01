@@ -10,10 +10,8 @@
   box-sizing: border-box;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   outline: none;
-}
+  text-decoration: none;
+  font-size: 14px; }
 
 .btn:hover {
-  cursor: pointer;
-}
-
-/*# sourceMappingURL=btn.css.map */
+  cursor: pointer; }

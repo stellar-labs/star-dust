@@ -19,7 +19,12 @@
 	},
 	"homepage": "https://github.com/stellar-labs/star-dust#readme",
 	"devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-preset-env": "^1.7.0",
+		"babel-register": "^6.26.0",
 		"eslint": "^5.5.0",
+		"gulp": "^3.9.1",
+		"gulp-sass": "^4.0.1",
 		"sass": "^1.13.1"
 	}
 }
