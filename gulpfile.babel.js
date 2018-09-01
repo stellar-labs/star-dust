@@ -5,7 +5,7 @@ gulp.task("sass", function() {
 	return gulp
 		.src("./src/**/*.sass")
 		.pipe(sass())
-		.pipe(gulp.dest("./src"));
+		.pipe(gulp.dest("./lib"));
 });
 
 gulp.task("watch-sass", function() {
